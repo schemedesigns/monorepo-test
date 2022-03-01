@@ -1,0 +1,19 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "@schemedesigns/doctor": "^1.0.0",
+    "@schemedesigns/patient": "^1.0.0",
+    "@schemedesigns/scheduler": "^1.0.0"
+  }
+}
