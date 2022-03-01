@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ts-node": "^7.0.1",
-    "@schemedesigns/doctor": "^1.0.0",
-    "@schemedesigns/patient": "^1.0.0",
-    "@schemedesigns/scheduler": "^1.0.0"
+    "@schemedesigns/doctor": "^1.0.1",
+    "@schemedesigns/patient": "^1.0.1",
+    "@schemedesigns/scheduler": "^1.0.1",
+    "ts-node": "^7.0.1"
   }
 }
